@@ -5,7 +5,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-color: #197ee2;
+    background-color: #d6e2ee;
   }
   
   .container {
@@ -21,7 +21,7 @@ body {
   }
   
   form {
-    background-color: #f8f9fa;
+    background-color: #679ed4;
     border-radius: 10px;
     padding: 20px;
     box-shadow: 0 5px 15px rgba(0,0,0,0.1);
